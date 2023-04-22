@@ -109,7 +109,7 @@
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
-  background: url("../icons/Star.svg") center center/cover no-repeat;
+  background: url("./icons/Star.svg") center center/cover no-repeat;
 }
 .promo__interactive-item:before {
   content: "";
@@ -130,7 +130,7 @@
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
-  background: url("../icons/trash.png") center center/cover no-repeat;
+  background: url("./icons/trash.png") center center/cover no-repeat;
   cursor: pointer;
 }
 .promo__interactive .add .promo__interactive-title {
